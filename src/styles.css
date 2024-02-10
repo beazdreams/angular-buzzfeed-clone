@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #1f1147
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar {
+    padding: 1rem 2rem;
+    border-bottom: 1px solid #ccc; 
+}
+
+.buzz-title {
+    fill: #e32;
+    max-width: 15vw;
+    max-height: 2em;
+}

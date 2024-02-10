@@ -1,0 +1,78 @@
+{
+    "title":"Conte um pouco sobre você e eu direi que álbum ou EP do Chase Atlantic tem sua vibe",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual cor você escolheria?",
+        "options":[
+          {"id": 1, "name":"Preto", "alias":["A", "B", "D", "G", "H"]},
+          {"id": 2, "name":"Vermelho", "alias":"B"},
+          {"id": 3, "name":"Azul", "alias":"A"},
+          {"id": 4, "name":"Prata", "alias":"A"},
+          {"id": 5, "name":"Branco", "alias":"A"},
+          {"id": 6, "name":"Roxo", "alias":"B"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Qual seu estilo musical ideal para uma viagem longa?",
+        "options":[
+          {"id": 1, "name":"R&B", "alias":["K", "F", "J"]},
+          {"id": 2, "name":"Pop-rock", "alias":["A", "G", "D", "I"]},
+          {"id": 2, "name":"Pop raiz", "alias":["B", "E"]},
+          {"id": 3, "name":"Eletrônica", "alias":["C", "H"]}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual dos versos mais te chama a atenção?",
+        "options":[
+          {"id": 1, "name":"A água está ficando mais fria, me deixe entrar no seu oceano e nadar", "alias":"B"},
+          {"id": 2, "name":"Estou tão cansado de me sentir cansado", "alias":"F"},
+          {"id": 3, "name":"Ela não gosta disso, mas ela precisa de mim", "alias":"E"},
+          {"id": 4, "name":"Emoções à mostra, como se nunca tivesse sido amada", "alias":"A"},
+          {"id": 5, "name":"Ela precisa de mais do que amor, ela precisa de compromisso", "alias":"K"},
+          {"id": 6, "name":"Eu venderia a alma para não sentir isso", "alias":"C"},
+          {"id": 7, "name":"Ela me disse que me amava, mas eu não mereço o seu amor", "alias":"J"},
+          {"id": 8, "name":"Em uma só noite, ela foi ao paraíso e voltou", "alias":"H"},
+          {"id": 9, "name":"Deixe esse sentimento de lado, e, garota, sou todo seu esta noite", "alias":"D"},
+          {"id": 10, "name":"Se a energia está morta, amor, deixe as coisas morrerem", "alias":"G"},
+          {"id": 11, "name":"Olhe bem em volta, eu sou o único que não foi embora", "alias":"I"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Você já ouviu Chase Atlantic antes? Só por curiosidade.",
+        "options":[
+          {"id": 1, "name":"Sim", "alias":["C", "G", "H", "J", "K"]},
+          {"id": 2, "name":"Não", "alias":["A", "B", "D", "E", "F", "I"]}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual seu emoji favorito?",
+        "options":[
+          {"id": 1, "name":"🖤", "alias":["A", "G"]},
+          {"id": 2, "name":"🦋", "alias":["B", "D"]},
+          {"id": 3, "name":"🌙", "alias":["C", "I"]},
+          {"id": 4, "name":"⛪", "alias":["K"]},
+          {"id": 5, "name":"🎞", "alias":["H", "E"]},
+          {"id": 6, "name":"🐈", "alias":["F", "J"]}
+        ]
+      }
+    ],
+    "results":{
+        "A": "Friends",
+        "B": "Swim",
+        "C": "STUCKINMYBRAIN",
+        "D": "Vibes",
+        "E": "Into It",
+        "F": "I THINK I'M LOST AGAIN",
+        "G": "Dancer in the Dark",
+        "H": "HEAVEN AND BACK",
+        "I": "Right Here",
+        "J": "Ozone",
+        "K": "ESCORT"
+    }
+  }
+  
